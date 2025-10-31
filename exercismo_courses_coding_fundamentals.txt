@@ -1,0 +1,133 @@
+
+Don't know where to start? Stuck in tutorial hell?
+You're not alone! If you've tried learning from other websites or videos and found it's not sticking, or you just feel utterly overwhelmed knowing where to start, then you're not alone!
+
+The majority of courses out there suck. They promise you the world then massively underdeliver. They're boring, confusing, and they leave you feeling like you're not cut out for this.
+
+We made this course to fix that. If you're looking for something fun and creative where you learn by actually making things, with support when you need it, then this might just be the course for you!
+
+
+
+Hi there! 👋 I'm Jeremy, and I've helped over two million people level up their coding skills.
+But over the last few years, I've seen a really worrying trend...
+
+More and more people are trying to learn to code (🥳) but they seem to be struggling more than ever (😢). And they're struggling with things that should be pretty straightforward once you've been learning for a while. People just don't seem to be grasping the fundamentals.
+
+So I started reading around to see if I could work out what was going on, and found a crazy statistic.
+
+
+96% of people who try to learn to code give up 🤯
+How could it be that so many people were trying to learn to code, but so few were actually succeeding?
+
+I went investigating… 🕵️
+
+I watched the most popular YouTube videos (🥱), tried the "best" online courses (😐), and even paid my friends to try to learn so I could see what happened (a mix of 😭😠🤬🙅‍♀️).
+
+I dug into formal research, spoke to my friends in education, and pretty quickly came to a simple conclusion...
+
+
+The way people are being taught to code is causing them to fail!
+I started coding when I was 8. Back then, YouTube didn't exist. There weren't any "learn to code" websites. I didn't even have the internet. There was basically only one way to learn. Make stuff. Lots of stuff!
+
+
+
+And make stuff I did! I started making games and then graduated to making little bots to play against. And as I grew older I made websites for me and my friends, and eventually for customers.
+
+I created, I played, I experimented. I had fun!
+
+And through this, I got really good. I learned the coder mindset, and I laid the foundations that I've built my whole career on.
+
+But that's not how these modern courses teach. Giving you a space to practice and play and experiment is hard. It's much easier to just give you a video to watch, a quiz to take, and a certificate to print out.
+
+But you won't learn that way. You'll be bored, frustrated, and like most other people, you'll probably quit 😞😡
+
+
+
+If you want to get good, master the basics
+The best coders are not the ones who know the most.
+
+The best coders are the ones who have gained a total mastery of the basics. Once you've got the basics down, everything will become easy. You can go and learn whatever you want or need.
+
+And the way to master the basics? Practice, practice, practice.
+
+Take on different challenges. Solve different problems. And have fun learning your craft!
+
+
+
+Which is why we made this...
+We've made a different type of course. One that teaches you the fundamentals of coding differently. It's focused on getting you building fun things, on solving interesting problems, on learning the coding mindset that will actually get you good at this.
+
+Within 12 weeks, you'll go from zero to building games like Space Invaders, Tic Tac Toe, and Breakout. You'll be building bots that can solve mazes, and talking to real APIs like ChatGPT to build useful real-world projects.
+
+
+
+Focusing on what matters.
+We've worked really hard to build a course that focusses on the important stuff. We've written our own programming language that gets out of your way and lets you focus on the actual coding.
+
+We've made a kickass interface that's really fun and easy to use, but gets you coding fast. Everything is focused on giving you rock solid foundations, that will make it easy to learn any languages or technologies you want.
+
+
+
+Taught in a way that makes sense
+I'll teach you coding concepts using analogy and imagery, that will mean your brain actually absorbs the information and understands what's going on.
+
+There are no abstract concepts in this course. There's no hand-waving. If something is complex, I take my time breaking it down until it's clear.
+
+We've put together over 40 hours of live teaching for you to watch, where you can see me explaining the concepts of programming and answering questions from a real beginner audience.
+
+We have a great community of alumni and mentors who are there to help you when you get stuck. And I'll be there too, making sure you get the most out of the course!
+
+We've designed the course for total beginners and it's entirely focused on learning by doing. You'll be coding from day one, and you'll be coding a lot.
+
+It's also perfect if you've been coding for a while but you don't feel like you've got a solid grasp on everything yet. About 50% of our students are in that category and love the course.
+
+If that sounds exciting, then I'd love for you to join us! 💙
+
+
+
+What's on the menu?
+The course is split into two halves. The first teaches Coding Fundamentals. The second (optional) part teaches Front-end Web Development.
+
+Part 1
+The first half of the course focusses on building rock solid foundations. We'll cover all the core concepts in programming and give you tons of exercises and projects to practice with.
+
+Build a solid understanding of core programming principles, including flow control, conditionals, data types, functions, and much more, using a beginner-friendly version of JavaScript.
+
+Gain the confidence to put your knowledge into practice, being able to solve a wide variety of problems, using the right concept at the right time.
+
+Develop the Coder's Mind. You'll notice that your critical thinking, problem solving, and logic skills are all improving.
+
+
+Part 2
+From April to June, we'll build on the fundamentals and look at front-end web development. You'll gain the skills you need to build beautiful, interactive websites and kickstart your career.
+
+Get comfortable with JavaScript. We'll build on your knowledge from Part 1 by looking at JavaScript programming techniques essential for web development.
+
+Learn HTML and CSS. These two languages are the other fundamentals of web development. You'll learn both and use them to create beautiful websites.
+
+Learn Visual Studio Code and Git. Master these important tools, and how to use them to make your life easier.
+
+Build a portfolio of projects. Create projects to showcase to potential employers while practicing your skills.
+
+
+
+
+The 10 Levels of Coding Fundamentals
+Students normally take 1-2 weeks per level.
+From day one you'll be building fun things. You'll start by drawing, then animating, then making games, then building intelligence into your programs. Every level has lots of fun challenges!
+
+Here are just a few of the fun things you'll make! 👇
+
+In level 1 you get familiar with coding basics through some drawing puzzles.
+In level 2 you'll learn how to animate flipbook-style using variables and loops.
+In level 3 you'll start building some intelligence into your code.
+In level 4 you use repeatable chunks of code eliminate duplication.
+Level 5 introduces lists, your first compound data type, and Wordle!
+Level 6 focusses on coding mindset and introduces your first major project!
+In Level 7 you unlock dictionaries making Emoji Collector possible.
+In Level 8 you take a big step, learning Object Oriented Programming.
+Level 9 introduces methods and you start to feel like a real coder.
+And finally, in Level 10 you start to make your own classes.
+
+
+
