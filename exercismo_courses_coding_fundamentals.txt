@@ -111,7 +111,6 @@ Build a portfolio of projects. Create projects to showcase to potential employer
 
 
 
-
 The 10 Levels of Coding Fundamentals
 Students normally take 1-2 weeks per level.
 From day one you'll be building fun things. You'll start by drawing, then animating, then making games, then building intelligence into your programs. Every level has lots of fun challenges!
