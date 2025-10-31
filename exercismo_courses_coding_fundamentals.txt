@@ -126,6 +126,7 @@ Level 6 focusses on coding mindset and introduces your first major project!
 In Level 7 you unlock dictionaries making Emoji Collector possible.
 In Level 8 you take a big step, learning Object Oriented Programming.
 Level 9 introduces methods and you start to feel like a real coder.
+
 And finally, in Level 10 you start to make your own classes.
 
 
